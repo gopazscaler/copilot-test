@@ -1,0 +1,6 @@
+tmp/
+copilot_login_done
+node_modules/
+package-lock.json
+package.json
+.pw-profile
